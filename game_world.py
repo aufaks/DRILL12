@@ -2,7 +2,7 @@
 #world = []
 
 # 계층적 구조를 갖는 게임 월드
-world = [[],[]]
+world = [[],[],[]]
 
 # 게임 월드의 객체를 담는 함수
 def add_object(o, depth = 0):   # depth 0 = 배경, 1 = 캐릭터
